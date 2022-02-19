@@ -1,4 +1,4 @@
-#EEW-Midpoint Version 1.2
+# EEW-Midpoint Version 1.2
 <h2>このソフトは生命線(@userlifeline)氏の「P2P-Midpoint」のリスペクトソフトウェアです。</h2>
 <h2>最新verは右側にあるReleaseからダウウンロードしてください。</h2>
 <h2>・主な機能</h2>
