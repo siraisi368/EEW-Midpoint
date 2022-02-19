@@ -43,7 +43,7 @@
  -C#<br>
 
 <h2>・ソースコード</h2>
- GitHub:<br>
+ GitHub:https://github.com/siraisi368/EEW-Midpoint<br>
  ライセンス:Apache License 2.0<br>
 <h2>・謝辞(敬称略)</h2>
  -原案:生命線(@userlifeline)氏作成「P2P-Midpoint」<br>
