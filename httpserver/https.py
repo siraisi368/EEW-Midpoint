@@ -11,7 +11,7 @@ Directory = "web";
 
 class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=Directory, **kwargs)
+        super().__init__(*args, directory=Directory, **kwargs);
 
 with socketserver.TCPServer(("",PORT), Handler) as httpd:
         print("Server Start in port:", PORT);
