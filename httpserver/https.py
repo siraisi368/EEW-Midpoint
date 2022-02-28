@@ -18,3 +18,4 @@ with socketserver.TCPServer(("",PORT), Handler) as httpd:
         print("このウインドウはソフト終了時まで閉じないでください。");
         httpd.serve_forever();
 
+#セミコロンは癖なので気にしないでください
