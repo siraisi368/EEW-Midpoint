@@ -39,8 +39,8 @@
   質問はバグ報告先のDiscordかtwitterのどちらかにお願いいたします。<br>
 
 <h2>・使用言語</h2>
- -Python<br>
- -C#<br>
+ -Python(簡易Webサーバ)<br>
+ -C#(ソフトウェア本体)<br>
 
 <h2>・ソースコード</h2>
  GitHub:https://github.com/siraisi368/EEW-Midpoint<br>
